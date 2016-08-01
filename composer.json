@@ -9,8 +9,10 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
-    "psr-4": {
-            "Jzfan\\Rbac\\": "packages/jzfan/laravel-rbac/src"
-        }
+    "require": {},
+    "autoload": {
+        "psr-4": {
+                "Jzfan\\Rbac\\": "packages/jzfan/laravel-rbac/src"
+            }
+    }
 }
