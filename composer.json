@@ -1,0 +1,16 @@
+{
+    "name": "root/laravel-rbac",
+    "description": "jzfan/laravel-rbac",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "jzfan",
+            "email": "jzfan@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+    "psr-4": {
+            "Jzfan\\Rbac\\": "packages/jzfan/laravel-rbac/src"
+        }
+}
